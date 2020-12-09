@@ -7,7 +7,7 @@ Installed packages 👇
 
 ## use this `uiConfig` object 👇
 
-`
+\*\*
 uiConfig = {
 signInFlow: "popup",
 signInOptions: [
@@ -23,4 +23,4 @@ signInSuccess: () => false,
 },
 };
 
-`
+\*\*
