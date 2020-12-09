@@ -24,3 +24,15 @@ signInSuccess: () => false,
 };
 
 \*\*
+
+### How to deploy in Github pages 🤔
+
+run `yarn add gh-pages`
+
+in the `package.json` update 👇
+`"homepage": "username.github.io/projectName"`
+
+in the `debug` script:
+
+`"predeploy" : "yarn build",`
+`"deploy" : "gh-pages -d build"`
