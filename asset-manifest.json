@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/authentication-system-react/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github.io/authentication-system-react/static/js/main.dbdce826.chunk.js",
-    "main.js.map": "/github.io/authentication-system-react/static/js/main.dbdce826.chunk.js.map",
-    "runtime-main.js": "/github.io/authentication-system-react/static/js/runtime-main.72c1316f.js",
-    "runtime-main.js.map": "/github.io/authentication-system-react/static/js/runtime-main.72c1316f.js.map",
-    "static/css/2.673fadc8.chunk.css": "/github.io/authentication-system-react/static/css/2.673fadc8.chunk.css",
-    "static/js/2.c29c1707.chunk.js": "/github.io/authentication-system-react/static/js/2.c29c1707.chunk.js",
-    "static/js/2.c29c1707.chunk.js.map": "/github.io/authentication-system-react/static/js/2.c29c1707.chunk.js.map",
-    "static/js/3.9b0bedd7.chunk.js": "/github.io/authentication-system-react/static/js/3.9b0bedd7.chunk.js",
-    "static/js/3.9b0bedd7.chunk.js.map": "/github.io/authentication-system-react/static/js/3.9b0bedd7.chunk.js.map",
-    "index.html": "/github.io/authentication-system-react/index.html",
-    "static/css/2.673fadc8.chunk.css.map": "/github.io/authentication-system-react/static/css/2.673fadc8.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/github.io/authentication-system-react/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c29c1707.chunk.js.LICENSE.txt": "/github.io/authentication-system-react/static/js/2.c29c1707.chunk.js.LICENSE.txt"
+    "main.css": "/authentication-system-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/authentication-system-react/static/js/main.dbdce826.chunk.js",
+    "main.js.map": "/authentication-system-react/static/js/main.dbdce826.chunk.js.map",
+    "runtime-main.js": "/authentication-system-react/static/js/runtime-main.aaeab548.js",
+    "runtime-main.js.map": "/authentication-system-react/static/js/runtime-main.aaeab548.js.map",
+    "static/css/2.673fadc8.chunk.css": "/authentication-system-react/static/css/2.673fadc8.chunk.css",
+    "static/js/2.25dd94f9.chunk.js": "/authentication-system-react/static/js/2.25dd94f9.chunk.js",
+    "static/js/2.25dd94f9.chunk.js.map": "/authentication-system-react/static/js/2.25dd94f9.chunk.js.map",
+    "static/js/3.9b0bedd7.chunk.js": "/authentication-system-react/static/js/3.9b0bedd7.chunk.js",
+    "static/js/3.9b0bedd7.chunk.js.map": "/authentication-system-react/static/js/3.9b0bedd7.chunk.js.map",
+    "index.html": "/authentication-system-react/index.html",
+    "static/css/2.673fadc8.chunk.css.map": "/authentication-system-react/static/css/2.673fadc8.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/authentication-system-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.25dd94f9.chunk.js.LICENSE.txt": "/authentication-system-react/static/js/2.25dd94f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72c1316f.js",
+    "static/js/runtime-main.aaeab548.js",
     "static/css/2.673fadc8.chunk.css",
-    "static/js/2.c29c1707.chunk.js",
+    "static/js/2.25dd94f9.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.dbdce826.chunk.js"
   ]
