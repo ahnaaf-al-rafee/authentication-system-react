@@ -1,9 +1,9 @@
 ### Create a full functional Authentication app using React and Firebase!
 
-## view the live app https://ahnaaf-al-rafee.github.io/authentication-system-react/
+view the live app https://ahnaaf-al-rafee.github.io/authentication-system-react/
 
 Installed packages 👇
-`yarn add firebase` & `yarn add firebaseui`
+`yarn add firebase` & `yarn add react-firebaseui`
 
 **Note: use firebaseUi to create awesome buttons without hard coding! It also setups ReCaptcha built in!!!**
 
